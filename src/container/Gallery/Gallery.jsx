@@ -31,11 +31,10 @@ const Gallery = () => {
           className="p__opensans"
           style={{ color: "#AAAAAA", marginTop: "2rem" }}
         >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat
-          mattis ipsum turpis elit elit scelerisque egestas mu.
+          Setiap jenis makanan memiliki pesonanya sendiri, mulai dari hidangan tradisional yang lezat hingga makanan eksotis yang memikat selera petualang kuliner.
         </p>
         <button type="button" className="custom__button">
-          View More
+          Ketahui Lebih Banyak
         </button>
       </div>
       <div className="app__gallery-images">

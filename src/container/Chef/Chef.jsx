@@ -10,27 +10,25 @@ const Chef = () => (
       <img src={images.chef} alt="chef_image" />
     </div>
     <div className="app__wrapper_info">
-      <SubHeading title="Chef's word" />
-      <h1 className="headtext__cormorant">What we believe in</h1>
+      <SubHeading title="Our Team" />
+      <h1 className="headtext__cormorant">Tentang kami</h1>
 
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .
+            Kami adalah React Developer yang menciptakan website ini  .
           </p>
         </div>
         <p className="p__opensans">
           {" "}
-          auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.
-          Nulla scelerisque scelerisque congue ac consequat, aliquam molestie
-          lectus eu. Congue iaculis integer curabitur semper sit nunc.{" "}
+          Kami ingin menyajikan informasi yang berguna dan menarik tentang makanan kepada pengguna kami. Kami akan menyediakan resep, tips memasak, ulasan restoran, dan berbagai artikel terkait makanan. Tujuan kami adalah menjadi sumber yang dapat diandalkan untuk semua hal terkait makanan. .{" "}
         </p>
       </div>
 
       <div className="app__chef-sign">
-        <p>Kevin Luo</p>
-        <p className="p__opensans">Chef & Founder</p>
+        <p>Stenly Adam</p>
+        <p className="p__opensans">Dosen & Programer</p>
         <img src={images.sign} alt="sign_image" />
       </div>
     </div>
